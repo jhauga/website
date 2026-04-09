@@ -1,5 +1,11 @@
 # Website
 
+---
+
+**THIS REPOSITORY HAS BEEN ARCHIVED.** Website is now [part of Flet monorepo](https://github.com/flet-dev/flet/tree/main/website). Read [this announcement](https://flet.dev/blog/flet-v-0-84-release-announcement) for more info.
+
+---
+
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
 View the live site at [https://flet.dev](https://flet.dev).
